@@ -83,8 +83,7 @@
 		"uniques":[
 			"Comment [Costs 20 Military Support to use]",
 
-			"Consumes [1] [Military Support]"
-			
+			"Consumes [1] [Military Support]",			
 			"Instantly consumes [20] [Military Support] <when attacking> <hidden from users>",
 			"Cannot attack <when below [20] [Military Support]> <hidden from users>"
 		],

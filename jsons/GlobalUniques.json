@@ -1,7 +1,6 @@
 	{
 		"name":"Global uniques",
 		"uniques":[
-			"[-10] Unit Supply per [1] population [in all cities]",
 			"[+1] Unit Supply per [15] population [in all cities]",
 			"[-1] Unit Supply per city",
 			"[-2] Unit Supply",
@@ -13,20 +12,20 @@
 			"Provides [3] [Military Support] <when below [30] [Military Support]> <when not at war> <after adopting [Order]>",
 		
 
-			"[-10]% Strength <when below [10] [Military Support]>",
-			"[-10]% Strength <when below [-1] [Military Support]>",
-			"[-10]% Strength <when below [-2] [Military Support]>",
-			"[-10]% Strength <when below [-3] [Military Support]>",
-			"[-10]% Strength <when below [-4] [Military Support]>",
-			"[-10]% Strength <when below [-5] [Military Support]>",
-			"[-10]% Strength <when below [-6] [Military Support]>",
-			"[-10]% Strength <when below [-7] [Military Support]>",
-			"[-10]% Strength <when below [-8] [Military Support]>",
-                        "[-10]% Strength <when below [-9] [Military Support]>",
+			"[-5]% Strength <when below [0] [Military Support]>",
+			"[-5]% Strength <when below [-1] [Military Support]>",
+			"[-5]% Strength <when below [-2] [Military Support]>",
+			"[-5]% Strength <when below [-3] [Military Support]>",
+			"[-5]% Strength <when below [-4] [Military Support]>",
+			"[-5]% Strength <when below [-5] [Military Support]>",
+			"[-5]% Strength <when below [-6] [Military Support]>",
+			"[-5]% Strength <when below [-7] [Military Support]>",
+			"[-5]% Strength <when below [-8] [Military Support]>",
+			"[-5]% Strength <when below [-9] [Military Support]>",
 			"[10]% Strength <when above [40] [Military Support]>",
 
-			"Rebel units may spawn <when below [-10] [Military Support]>",
-			"[+100]% Unhappiness from [Population] [in all cities] <when below [-10] [Military Support]>",
+			"Rebel units may spawn <when below [0] [Military Support]>",
+			"[+90]% Unhappiness from [Population] [in all cities] <when below [0] [Military Support]>",
 			
 			"[{Scrapper} {non-[Mounted]} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [Infantry Support] promotion",
 			"[{Shooter} {non-[Mounted]} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [Infantry Support] promotion",
