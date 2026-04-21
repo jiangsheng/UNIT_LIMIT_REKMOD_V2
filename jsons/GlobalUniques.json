@@ -2,6 +2,7 @@
 		"name":"Global uniques",
 		"uniques":[
 			"[+1] Unit Supply per [1] population [in all cities]",
+			"[+1] [Military Support] per [1] population [in all cities]",
 			"[-1] Unit Supply per city",
 			"[-2] Unit Supply",
 			
