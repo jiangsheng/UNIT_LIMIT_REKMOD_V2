@@ -7,7 +7,7 @@
 		"uniques": [
             "Only available in capitol",
             "Moves to new capital when capital changes",
-            "[100]% of [Food] from every [Food] in the city added to [Military Support]"
+            "[100]% of [Food] from every [Building] in the city added to [Military Support]"
         ]
 	}
 ]
