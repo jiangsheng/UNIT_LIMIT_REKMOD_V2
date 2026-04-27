@@ -15,7 +15,7 @@
 			"Instantly consumes [5] [Military Support] <upon being defeated> <hidden from users>",
 			"[This Unit] heals [30] HP <costs [30] [Military Support]> <for all movement> <hidden from users>",
 			"[This Unit] gains [20] XP <in [your] tiles> <costs [20] [Military Support]> <for all movement> <hidden from users>",
-			"Consumes [1] [Military Support] <in [Foreign Land] tiles> <hidden from users>",
+			"Instantly consumes [1] [Military Support]  <in tiles without [Enemy Land]> <upon turn start>  <hidden from users>",
 		],
 		"column":21,
 		"row":9
@@ -44,7 +44,7 @@
 			"Comment [Gain an additional 5 Military Support upon defeating a Military unit]",
 			"Comment [Lose an additional 5 Military Support when defeated]",
 			
-			"Consumes [1] [Military Support]",
+			"Instantly consumes [1] [Military Support]  <in tiles without [Enemy Land]> <upon turn start>  <hidden from users>",
 			
 			"Instantly provides [5] [Military Support] <upon defeating a [Military] unit> <hidden from users>",
 			"Instantly consumes [5] [Military Support] <upon being defeated> <hidden from users>",
@@ -55,7 +55,7 @@
 	{
 		"name":"War Machine Support",
 		"uniques":[
-			"Consumes [1] [Military Support]  <in [Foreign Land] tiles> <hidden from users>",
+			"Instantly consumes [1] [Military Support]  <in tiles without [Enemy Land]> <upon turn start>  <hidden from users>",
 		],
 		"column":21,
 		"row":13
@@ -83,11 +83,19 @@
 		"uniques":[
 			"Comment [Costs 20 Military Support to use]",
 
-			"Consumes [1] [Military Support] <in [Foreign Land] tiles> <hidden from users>s",			
+			"Instantly consumes [1] [Military Support]  <in tiles without [Enemy Land]> <upon turn start>  <hidden from users>",		
 			"Instantly consumes [20] [Military Support] <when attacking> <hidden from users>",
 			"Cannot attack <when below [20] [Military Support]> <hidden from users>"
 		],
 		"column":21,
 		"row":16
-	}
+	},
+	{
+		"name": "Promotion Nullifier",
+		"uniques": [
+			"Promotion Nullifier"
+		],
+		"column": 6,
+		"row": 7
+	},
 ]

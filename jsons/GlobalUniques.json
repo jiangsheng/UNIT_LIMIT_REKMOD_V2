@@ -2,7 +2,6 @@
 		"name":"Global uniques",
 		"uniques":[
 			"[+1] Unit Supply per [1] population [in all cities]",
-			"[+1] [Military Support] per [1] population [in all cities]",
 			"[-1] Unit Supply per city",
 			"[-2] Unit Supply",
 			
@@ -11,7 +10,6 @@
 			"Provides [10] [Military Support] <when below [20] [Military Support]> <after adopting [Sovereignty]>",
 			"Provides [5] [Military Support] <when below [50] [Military Support]> <when not at war>",
 			"Provides [3] [Military Support] <when below [30] [Military Support]> <when not at war> <after adopting [Order]>",
-		
 
 			"[-5]% Strength <when below [0] [Military Support]>",
 			"[-5]% Strength <when below [-1] [Military Support]>",
@@ -28,8 +26,8 @@
 			"Rebel units may spawn <when below [0] [Military Support]>",
 			"[+90]% Unhappiness from [Population] [in all cities] <when below [0] [Military Support]>",
 			
-			"[{Scrapper} {non-[Mounted]} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [Infantry Support] promotion",
-			"[{Shooter} {non-[Mounted]} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [Infantry Support] promotion",
+			//"[{Scrapper} {non-[Mounted]} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [Infantry Support] promotion",
+			//"[{Shooter} {non-[Mounted]} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [Infantry Support] promotion",
 			"[{Mounted} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [Mounted Support] promotion",
 			"[{Armor} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [Armor Support] promotion",
 			"[{Helicopter} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [War Machine Support] promotion",
