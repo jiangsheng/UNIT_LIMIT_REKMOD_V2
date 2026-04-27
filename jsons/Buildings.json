@@ -1,0 +1,13 @@
+[
+    {
+		"name": "Logistics Hub",
+		"cost": 10,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": [
+            "Only available in capitol",
+            "Moves to new capital when capital changes",
+            "[100]% of [Food] from every [Food] in the city added to [Military Support]"
+        ]
+	}
+]
